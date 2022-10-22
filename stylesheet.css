@@ -6,7 +6,7 @@ body {
 }
 ul.top-nav {
     list-style-type:none;
-    margin:10px;
+    margin:0;
     overflow:hidden;
     position:fixed;
     top:0;
